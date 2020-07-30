@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.50b81d5d.chunk.css",
-    "main.js": "/static/js/main.4fa860f3.chunk.js",
-    "main.js.map": "/static/js/main.4fa860f3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.27512ada.js",
-    "runtime-main.js.map": "/static/js/runtime-main.27512ada.js.map",
-    "static/js/2.6771a295.chunk.js": "/static/js/2.6771a295.chunk.js",
-    "static/js/2.6771a295.chunk.js.map": "/static/js/2.6771a295.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8d231154e9955a7584bef281bf3ba646.js": "/precache-manifest.8d231154e9955a7584bef281bf3ba646.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.50b81d5d.chunk.css.map": "/static/css/main.50b81d5d.chunk.css.map",
-    "static/media/bryan.jpg": "/static/media/bryan.9eec70bc.jpg",
-    "static/media/pam.jpg": "/static/media/pam.7a0c012e.jpg"
+    "main.css": "/react/static/css/main.50b81d5d.chunk.css",
+    "main.js": "/react/static/js/main.4fa860f3.chunk.js",
+    "main.js.map": "/react/static/js/main.4fa860f3.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.f8d77b36.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.f8d77b36.js.map",
+    "static/js/2.6771a295.chunk.js": "/react/static/js/2.6771a295.chunk.js",
+    "static/js/2.6771a295.chunk.js.map": "/react/static/js/2.6771a295.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.45a9a14163a809ce05761a9171c1a728.js": "/react/precache-manifest.45a9a14163a809ce05761a9171c1a728.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/main.50b81d5d.chunk.css.map": "/react/static/css/main.50b81d5d.chunk.css.map",
+    "static/media/bryan.jpg": "/react/static/media/bryan.9eec70bc.jpg",
+    "static/media/pam.jpg": "/react/static/media/pam.7a0c012e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27512ada.js",
+    "static/js/runtime-main.f8d77b36.js",
     "static/js/2.6771a295.chunk.js",
     "static/css/main.50b81d5d.chunk.css",
     "static/js/main.4fa860f3.chunk.js"
